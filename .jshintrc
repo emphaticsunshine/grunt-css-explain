@@ -1,0 +1,20 @@
+{
+    "newcap": true,
+    "noempty": true,
+    "curly": true,
+    "smarttabs": true,
+    "globalstrict": true,
+    "strict": true,
+    "eqnull": true,
+    "eqeqeq": true,
+    "undef": true,
+    "trailing": true,
+    "sub": true,
+    "jquery": true,
+    "browser": true,
+    "forin": true,
+  "predef": [
+    "require",
+    "define"
+  ]   
+}

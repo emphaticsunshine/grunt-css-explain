@@ -1,0 +1,27 @@
+{
+  "name": "Grunt-css-explain",
+  "version": "0.0.0",
+  "description": "This is a grunt plugin which goes through css file and output each and every style scoring using css-explain.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emphaticsunshine/grunt-css-explain.git"
+  },
+  "scripts": {
+    "preinstall": "sudo npm install -g grunt-cli"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "css-explain": "~0.1.0",
+    "css-parse": "~1.1.0",
+    "grunt-linter": "~0.1.4"
+  },
+  "keywords": [
+    "css",
+    "performance"
+  ],
+  "author": "Mohit Seth"
+}
